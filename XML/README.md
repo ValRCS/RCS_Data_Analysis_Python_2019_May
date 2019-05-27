@@ -1,2 +1,1 @@
-# XML files
-
+# XML data exchange format
