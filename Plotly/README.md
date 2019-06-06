@@ -12,3 +12,6 @@ Plotly at its core is a data visualization toolbox. Under every plotly graph is 
 
 ## Using Plotly
 https://stackabuse.com/using-plotly-library-for-interactive-data-visualization-in-python/
+
+# Get Started
+* https://plot.ly/python/getting-started/
