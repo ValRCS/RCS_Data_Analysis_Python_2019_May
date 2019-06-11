@@ -1,0 +1,2 @@
+# Various no SQL solutions
+
