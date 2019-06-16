@@ -61,9 +61,15 @@ https://docs.microsoft.com/en-us/power-bi/desktop-quickstart-learn-dax-basics
 
 # Python Integration!
 
-https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2018-feature-summary/
+* https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2018-feature-summary/
 
-https://www.absentdata.com/how-to-user-python-and-power-bi/
+* https://www.absentdata.com/how-to-user-python-and-power-bi/
+
+* https://powerbi.microsoft.com/en-us/blog/tag/python/
+
+* https://www.sqlshack.com/power-bi-desktop-and-python-like-peanut-butter-and-chocolate/
+
+
 
 
 
