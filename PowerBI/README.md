@@ -63,6 +63,8 @@ https://docs.microsoft.com/en-us/power-bi/desktop-quickstart-learn-dax-basics
 
 https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2018-feature-summary/
 
+https://www.absentdata.com/how-to-user-python-and-power-bi/
+
 
 
 
