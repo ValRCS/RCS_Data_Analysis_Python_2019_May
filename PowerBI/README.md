@@ -58,6 +58,9 @@ https://msdn.microsoft.com/en-us/query-bi/dax/data-analysis-expressions-dax-refe
 DAX with Power BI
 https://docs.microsoft.com/en-us/power-bi/desktop-quickstart-learn-dax-basics
 
+10 min guide
+https://datascience-school.com/blog/power-bi-in-10-minutes-step-by-step-guide/
+
 
 # Python Integration!
 
