@@ -12,5 +12,8 @@
 ## Jupyter Notebooks collection 
 * https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
+
+## Tutorials and Videos
 * https://github.com/justmarkham/pycon-2018-tutorial
+* https://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb
 
