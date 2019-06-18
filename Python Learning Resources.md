@@ -16,4 +16,4 @@
 ## Tutorials and Videos
 * https://github.com/justmarkham/pycon-2018-tutorial
 * https://nbviewer.jupyter.org/github/justmarkham/pandas-videos/blob/master/pandas.ipynb
-
+* https://github.com/justmarkham/pandas-videos
