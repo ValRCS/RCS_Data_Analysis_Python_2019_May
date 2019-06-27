@@ -12,6 +12,10 @@
 ## Jupyter Notebooks collection 
 * https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
 
+## Python Tips
+
+* https://medium.com/free-code-camp/an-a-z-of-useful-python-tricks-b467524ee747
+
 
 ## Tutorials and Videos
 * https://github.com/justmarkham/pycon-2018-tutorial
